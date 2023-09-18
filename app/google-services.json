@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1043322942202",
+    "project_id": "familyguard-399406",
+    "storage_bucket": "familyguard-399406.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043322942202:android:475182f13a5668bddb4f43",
+        "android_client_info": {
+          "package_name": "com.example.familyguard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043322942202-vju20pq9hhmftn5l01gvvpoci8sdslng.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.familyguard",
+            "certificate_hash": "ddcc4a28af826659596bb09668bfcc1e3198c484"
+          }
+        },
+        {
+          "client_id": "1043322942202-e07deblunt6gnpdglb9i4rs6omdvugkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkFb898Wd6pPEwCL2KxuKqTJ5ets0C83o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043322942202-e07deblunt6gnpdglb9i4rs6omdvugkp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
